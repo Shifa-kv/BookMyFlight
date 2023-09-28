@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BookMyFlight/static/css/main.dc655035.css",
+    "main.js": "/BookMyFlight/static/js/main.abf0408f.js",
+    "static/js/787.c30a6e17.chunk.js": "/BookMyFlight/static/js/787.c30a6e17.chunk.js",
+    "static/media/flight.svg": "/BookMyFlight/static/media/flight.8be5503bf7bd0a26e339893e6d3386d0.svg",
+    "static/media/flightIcon.svg": "/BookMyFlight/static/media/flightIcon.81e39a7c841d89d3ff9c51636c738089.svg",
+    "index.html": "/BookMyFlight/index.html",
+    "main.dc655035.css.map": "/BookMyFlight/static/css/main.dc655035.css.map",
+    "main.abf0408f.js.map": "/BookMyFlight/static/js/main.abf0408f.js.map",
+    "787.c30a6e17.chunk.js.map": "/BookMyFlight/static/js/787.c30a6e17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc655035.css",
+    "static/js/main.abf0408f.js"
+  ]
+}
