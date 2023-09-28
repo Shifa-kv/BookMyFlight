@@ -53,8 +53,8 @@ const Booking = () => {
           <div className="bg-primary flex px-4">
             <Link to="/" className="text-white py-2">Go back</Link>
           </div>
-          <div className="flex px-5">
-            <div className="p-4 w-6/12 border-r border-dashed border-primary my-2">
+          <div className="flex md:block px-5">
+            <div className="p-4 w-6/12 md:w-full md:border-b md:border-r-0 border-r border-dashed border-primary my-2">
               <div className="grid grid-cols-2 gap-4">
                 <div className="text-left">
                   <span className="block text-xs text-gray-500">Depart</span>
@@ -96,7 +96,7 @@ const Booking = () => {
                 </div>
               </div>
             </div>
-            <div className="p-4 text-right w-6/12 flex flex-col">
+            <div className="p-4 text-right md:w-full w-6/12 flex flex-col">
               <p>Basic price</p>
               <h2 className=' w-full text-lg text-secondary font-bold mb-3'>₹ {Data?.price}</h2>
               <p >Tax</p>
